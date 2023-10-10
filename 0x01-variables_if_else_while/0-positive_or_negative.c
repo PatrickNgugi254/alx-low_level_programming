@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * betty style doc
+ * main-determines if random nummber is +/_
  * Return: Always 0 (success)
  */
 
@@ -16,7 +16,7 @@ int main(void)
 	if (n > 0)
 		printf("%d is positive\n", n);
 	else if (n == 0)
-		printf("%dis zero\n", n);
+		printf("%d is zero\n", n);
 	else
 		printf("%d is negative\n", n);
 	return (0);
