@@ -2,7 +2,7 @@
 
 /**
  * main - main function
- * Return: 0 always if successfuly 
+ * Return: 0 always if successfuly
  */
 int main(void)
 {
@@ -14,5 +14,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
